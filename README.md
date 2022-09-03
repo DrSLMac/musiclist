@@ -1,4 +1,4 @@
-# Jukebox Hero ![jukebox](https://user-images.githubusercontent.com/102887963/188290068-7439c02f-f920-40ef-85ca-bf42c536e7f7.png)
+# ![jukebox](https://user-images.githubusercontent.com/102887963/188290068-7439c02f-f920-40ef-85ca-bf42c536e7f7.png) Jukebox Hero 🎸 🎶
 
 
 ![musicList](https://user-images.githubusercontent.com/102887963/188290048-741089d3-51e7-4381-a457-03e48d862454.gif)
