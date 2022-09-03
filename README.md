@@ -1,73 +1,77 @@
 # ![jukebox](https://user-images.githubusercontent.com/102887963/188290068-7439c02f-f920-40ef-85ca-bf42c536e7f7.png) Jukebox Hero 🎸 🎶
 
 
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Learning Goals](#learning-goals)
+- [Technologies and Tools](#technologies-and-tools)
+- [Illustrations & Demo](#illustrations-and-demo)
+- [Project Reflections](#project-reflections)
+- [Roadmap](#roadmap)
+- [Deployed Page](#deployed-page)
+- [Set Up](#set-up)
+- [Contributors](#contributors)
+- [Sources](#sources)
+- [Project Specs](#project-specs)
+
+## Introduction
+- 
+
+## Learning Goals
+- Create class components
+- Create function components
+- Use state and props to manage application data
+- Create a controlled form
+- Use JSX
+
+## Technologies and Tools
+- Javascript
+- HTML
+- CSS
+- npm
+- Node.js
+- React
+
+## Illustrations and Demo
 ![musicList](https://user-images.githubusercontent.com/102887963/188290048-741089d3-51e7-4381-a457-03e48d862454.gif)
 
+----
 
+## Project Reflections
+#### Wins
+- 
 
-## Available Scripts
+#### Challenges
+- 
 
-In the project directory, you can run:
+## Roadmap
+Future features could include:
+- 
 
-### `npm start`
+## Deployed Page
+Visit the published site 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Set Up
+1. Fork this repo
+2. Clone the repo to your local machine
+3. `cd` into the root of the project directory
+4. Run `npm install`
+5. Run `npm start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contributors
+ Shauna MacFarlane-Okongo
+ - [LinkedIn](https://github.com/DrSLMac)
+ - [GitHub](https://github.com/DrSLMac)
+ 
+## Sources
+ - [MDN](http://developer.mozilla.org/en-US/)
+ - [YouTube](https://www.youtube.com/)
+ - [W3Schools](https://www.w3schools.com/)
+ - [Router docs](https://reactrouter.com/)
+ - [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress)
+ - [Medium](https://medium.com/)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Project Specs
+ - The project spec & rubric can be found [here](https://frontend.turing.edu/lessons/module-3/react-2-the-how.html)
