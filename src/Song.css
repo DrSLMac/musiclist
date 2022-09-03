@@ -1,0 +1,11 @@
+.song {
+  background: linear-gradient(0.5turn, #3fa66f, #b0a1c1, #7b1634);
+  box-sizing: border-box;
+  border: 3px solid black;
+  padding: 10px;
+  box-shadow: rgb(0 0 0 / 45%) 20px 20px 20px;
+}
+
+.delete-button {
+  background-color: rgba(245, 245, 245, 0.47);
+}
